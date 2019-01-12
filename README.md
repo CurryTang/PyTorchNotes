@@ -3,3 +3,4 @@
 * [前言](preface.md)
 * [选择每一行上特定的某个元素](选择每一行上特定的某个元素.md)
 * [torch的矩阵乘法](torch的矩阵乘法.md)
+* [入门](torch_intro.md)
